@@ -96,5 +96,11 @@ width: 50vw; /* 50vw para que no ocupe todo el ancho */
     align-items: center;
     justify-content: center;
 }
-
-
+#footer{
+    background-color: rgb(35, 130, 182);
+}
+#social{
+    height: 25px;
+    width: 25px;
+    margin-top: 25px;
+}
